@@ -1,0 +1,12 @@
+[package]
+name = "axtime"
+version = "0.1.0"
+edition = "2024"
+description = "Generic tick-based and wall-clock time tracking: ordinal time, relative age, internal (growth-weighted) age, period of recurrence — independent of any specific domain."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/dchrnv/axtime"
+readme = "README.md"
+keywords = ["time", "clock", "age", "period", "generic"]
+categories = ["date-and-time", "data-structures"]
+
+[dependencies]
